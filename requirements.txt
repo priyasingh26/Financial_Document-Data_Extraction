@@ -1,0 +1,7 @@
+opencv-python
+pandas
+pillow
+pytesseract
+torch
+transformers
+scikit-learn
