@@ -1,6 +1,6 @@
 # Financial Document Information Extraction
 
-![Financial Document Information Extraction cover image](./Financial Document Information Extraction cover image.png)
+![Financial Document Information Extraction cover image](./Cover.png)
 
 This project automates the extraction of key details from financial documents like invoices, receipts, and bills using Optical Character Recognition (OCR) and LayoutLM-based document classification.
 
